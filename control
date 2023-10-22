@@ -1,0 +1,9 @@
+Package: com.binnichtaktiv.alltrailspatch
+Name: AllTrails Pro
+Author: binnichtaktiv
+Description: AllTrails Pro unlocked
+Depends: mobilesubstrate
+Maintainer: binnichtaktiv
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
